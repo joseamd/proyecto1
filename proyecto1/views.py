@@ -17,7 +17,7 @@ class Persona(object):
 def saludo(request):
     p1=Persona("Profesor Alex", "Muñoz")
 
-    #nombre="Alexander"
+    #nombre="Alex"
     #apellido="Muñoz"cd 
 
     fecha_actual=datetime.datetime.now()
